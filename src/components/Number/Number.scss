@@ -1,0 +1,12 @@
+.number-display-wrapper {
+  position: relative;
+
+  .number {
+    display: block;
+    background: red;
+  }
+
+  .number-top-top {
+    position: absolute;
+  }
+}
